@@ -30,3 +30,4 @@ Build a small end-to-end application and automate:
 OS: Kali Linux
 Purpose: DevOps Training Lab
 Phase 1 Linux completed successfully.
+Git pull exercise completed.
